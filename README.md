@@ -1,2 +1,7 @@
-# application
-My first repository
+```
+{
+  "favoriteseries": "Breaking Bad",
+  "favoritemovie": "Endgame",
+  "age": 25
+}
+```
